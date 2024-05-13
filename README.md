@@ -1,13 +1,17 @@
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:2C5364&text=SGW's%20GitWub&animation=twinkling&fontSize=70&fontAlignY=40&fontAlign=35&height=200)
----
+
 
 <!--
 ![SGW's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitwub5&show_icons=true)
 -->
  
 <br>
+
+## 📖 Education 📖
+
+</div><br>
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -32,3 +36,5 @@
 </div><br>
 </div>
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:2C5364&height=100&section=footer)
