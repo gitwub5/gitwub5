@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=SGW's%20GitWub&animation=twinkling&fontSize=70&fontAlignY=40&fontAlign=35&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:2C5364&text=SGW's%20GitWub&animation=twinkling&fontSize=70&fontAlignY=40&fontAlign=35&height=200)
 ---
 
 <!--
