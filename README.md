@@ -53,7 +53,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
        
 ![GW's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitwub5&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitwub5&layout=compact&hide=objective-c,jupyter%20notebook,cmake,makefile)](https://github.com/gitwub5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitwub5&layout=compact&hide=objective-c,jupyter%20notebook,cmake,makefile,HTML)](https://github.com/gitwub5/github-readme-stats)
       
  <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwub5&layout=compact&bg_color=60,8dd581,779bee&title_color=ffffff&text_color=ffffff"
