@@ -34,7 +34,8 @@
           </div>
     </div>
     <div  align= "center"> 
-         <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=AWS&logoColor=white">
+         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+         <img src="https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
