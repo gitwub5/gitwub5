@@ -1,6 +1,5 @@
 <div align= "center">
-     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎉 2025 Happy New Year 🎉</h2>  
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86fdba,100:00ddfa&height=120&text=GW's%20GitWub&animation=twinkling&fontColor=6296c6&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=160&section=header&text=GW's%20GitWub&fontSize=70&animation=twinkling"/>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ About me </h2>  
