@@ -7,7 +7,7 @@
 
 > 백엔드와 프론트엔드, 그리고 클라우드까지 다양한 스택을 활용해 
 > 서비스를 개발하는 주니어 개발자입니다.
-> Go, Nest.js, Flutter를 중심으로 프로젝트를 진행하며
+> Go, Spring, Flutter, React를 중심으로 프로젝트를 진행하며
 > DevOps와 클라우드 아키텍처(GCP & AWS)에도 경험을 쌓고 있습니다.
 
 ## 🛠️ Tech Stacks  
