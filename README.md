@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=900&color=414AF2&center=true&vCenter=true&width=520&lines=Backend+%E2%86%94+Frontend+%E2%86%94+Cloud;Go+%7C+Spring+%7C+Flutter+%7C+React+Native;DevOps+%7C+AWS+%7C+GCP+%7C+Kubernetes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=900&color=414AF2&center=true&vCenter=true&width=520&lines=Frontend+%E2%86%94+Backend+%E2%86%94+Cloud;Go+%7C+Spring+%7C+Flutter+%7C+React+Native;DevOps+%7C+Kubernetes" />
 </p>
 
 <p align="center">
@@ -89,11 +89,6 @@
 <br/>
 
 ## 🏅 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitwub5&show_icons=true&theme=vue&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwub5&layout=compact&theme=vue&cache_seconds=86400" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gitwub5&theme=vue&hide_border=true" height="165" />
