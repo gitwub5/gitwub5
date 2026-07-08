@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2FF,50:8898F2,100:414AF2&height=220&section=header&text=GW's%20GitHub&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Building%20products%20across%20Mobile,%20Backend,%20and%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2FF,50:8898F2,100:414AF2&height=220&section=header&text=GW's%20GitHub&fontSize=64&fontColor=ffffff&fontAlignY=38&%20&descAlignY=58&descSize=17&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -25,19 +25,19 @@
 
 ```yaml
 name: Shin Geonwoo
-role: Junior Full-Stack Developer
-focus:
-  - Product-oriented development
-  - Mobile & backend service architecture
-  - Cloud-native deployment and operations
-interests:
-  - Go / Spring backend systems
-  - Flutter / React Native mobile apps
-  - Kubernetes, GitOps, monitoring
-```
+role: Software Engineer
 
-서비스를 단순히 구현하는 것에서 끝내지 않고, **사용자가 실제로 사용할 수 있는 형태로 출시하고 운영하는 과정**에 관심이 있습니다.  
-Mobile, Backend, Cloud 영역을 함께 다루며, 안정적인 서비스 구조와 운영 가능한 아키텍처를 만드는 개발자로 성장하고 있습니다.
+focus:
+  - Backend service architecture
+  - Reliable data processing systems
+  - Cloud-native deployment and operations
+
+interests:
+  - Go and Spring-based backend systems
+  - Event-driven and asynchronous architecture
+  - Kubernetes, GitOps, and observability
+  - End-to-end service development
+```
 
 <br />
 
@@ -156,16 +156,22 @@ Mobile, Backend, Cloud 영역을 함께 다루며, 안정적인 서비스 구조
 
 - **Product First**: 실제 사용자가 사용할 수 있는 서비스 완성도와 출시 경험을 중요하게 생각합니다.
 - **Reliable Backend**: 기능 구현뿐 아니라 데이터 흐름, 장애 대응, 운영 안정성까지 고려합니다.
-- **Cloud-Native Operation**: Kubernetes, GitOps, 모니터링 기반의 운영 가능한 배포 구조에 관심이 있습니다.
-- **Cross-Platform Experience**: 모바일 앱과 서버를 함께 이해하며 제품 전체 흐름을 설계하려고 합니다.
+- **Reliable Data Flow**: 데이터의 수집, 처리, 저장 과정에서 발생할 수 있는 유실과 지연을 줄이는 구조를 고민합니다.
+- **Maintainable Architecture**: 기능 추가와 운영 환경의 변화를 고려하여 역할과 책임이 명확한 시스템을 설계하려고 합니다.
+- **Observability**: 지표와 로그를 통해 시스템 상태를 파악하고, 문제가 사용자에게 영향을 주기 전에 발견하는 것을 중요하게 생각합니다.
+- **Cloud-Native Operations**: Kubernetes와 GitOps를 기반으로 반복 가능하고 일관된 배포 및 운영 구조를 만드는 데 관심이 있습니다.
 
 <br />
 
-## 🏅 GitHub Stats
-
+## 🏅 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitwub5&show_icons=true&theme=transparent&hide_border=true&title_color=414AF2&text_color=444444&icon_color=414AF2" height="165" />
-  <img src="https://streak-stats.demolab.com?user=gitwub5&theme=transparent&hide_border=true&ring=414AF2&fire=8898F2&currStreakLabel=414AF2" height="165" />
+  <a href="https://github.com/gitwub5">
+    <img
+      src="https://streak-stats.demolab.com?user=gitwub5&theme=transparent&hide_border=true&ring=414AF2&fire=8898F2&currStreakLabel=414AF2&sideLabels=444444&dates=777777"
+      height="165"
+      alt="GitHub contribution streak"
+    />
+  </a>
 </p>
 
 <br />
