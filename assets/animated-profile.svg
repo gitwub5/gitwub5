@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Animated developer profile for Shin Geonwoo</title>
+  <desc id="desc">A terminal-style animated introduction highlighting backend, cloud-native, product, and embedded engineering experience.</desc>
+
+  <style>
+    :root {
+      --bg: #f6f8ff;
+      --panel: #ffffff;
+      --border: #dfe4ff;
+      --text: #27304a;
+      --muted: #68708a;
+      --primary: #414af2;
+      --secondary: #8898f2;
+      --green: #29a36a;
+      --shadow: #cbd3ff;
+      --chip: #eef1ff;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --panel: #161b22;
+        --border: #30363d;
+        --text: #e6edf3;
+        --muted: #9da7b3;
+        --primary: #9aa6ff;
+        --secondary: #7180e8;
+        --green: #56d38b;
+        --shadow: #05070a;
+        --chip: #22283d;
+      }
+    }
+
+    .screen { fill: var(--bg); }
+    .terminal {
+      fill: var(--panel);
+      stroke: var(--border);
+      stroke-width: 2;
+      filter: drop-shadow(0 14px 26px var(--shadow));
+    }
+    .topbar { fill: var(--chip); }
+    .title, .label, .value, .prompt, .tag, .logo-text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    }
+    .title { fill: var(--muted); font-size: 15px; }
+    .logo-text { fill: var(--primary); font-size: 27px; font-weight: 700; }
+    .label { fill: var(--secondary); font-size: 18px; font-weight: 700; }
+    .value { fill: var(--text); font-size: 18px; }
+    .prompt { fill: var(--green); font-size: 19px; font-weight: 700; }
+    .tag {
+      fill: var(--primary);
+      font-size: 14px;
+      font-weight: 700;
+    }
+    .chip { fill: var(--chip); stroke: var(--border); }
+    .cursor { fill: var(--primary); animation: blink 1s steps(1) infinite; }
+
+    .reveal {
+      opacity: 0;
+      animation: reveal .45s ease forwards;
+    }
+    .r1 { animation-delay: .25s; }
+    .r2 { animation-delay: .65s; }
+    .r3 { animation-delay: 1.05s; }
+    .r4 { animation-delay: 1.45s; }
+    .r5 { animation-delay: 1.85s; }
+    .r6 { animation-delay: 2.25s; }
+    .r7 { animation-delay: 2.65s; }
+    .r8 { animation-delay: 3.05s; }
+    .r9 { animation-delay: 3.45s; }
+
+    .line {
+      stroke: var(--border);
+      stroke-width: 2;
+      stroke-dasharray: 620;
+      stroke-dashoffset: 620;
+      animation: draw 1.2s ease forwards 2.8s;
+    }
+
+    @keyframes reveal {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+    @keyframes blink {
+      0%, 48% { opacity: 1; }
+      49%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <rect class="screen" width="1000" height="430" rx="24"/>
+  <rect class="terminal" x="24" y="24" width="952" height="382" rx="18"/>
+  <path class="topbar" d="M42 24h916a18 18 0 0 1 18 18v38H24V42a18 18 0 0 1 18-18z"/>
+  <circle cx="54" cy="52" r="7" fill="#ff605c"/>
+  <circle cx="78" cy="52" r="7" fill="#ffbd44"/>
+  <circle cx="102" cy="52" r="7" fill="#00ca4e"/>
+  <text class="title" x="500" y="58" text-anchor="middle">geonwoo@github: ~/profile</text>
+
+  <g class="reveal r1">
+    <text class="logo-text" x="74" y="133">GW</text>
+    <text class="value" x="74" y="165">software</text>
+    <text class="value" x="74" y="190">engineer</text>
+  </g>
+
+  <g class="reveal r2">
+    <rect class="chip" x="70" y="220" width="165" height="34" rx="17"/>
+    <text class="tag" x="152" y="242" text-anchor="middle">BACKEND</text>
+  </g>
+  <g class="reveal r3">
+    <rect class="chip" x="70" y="266" width="165" height="34" rx="17"/>
+    <text class="tag" x="152" y="288" text-anchor="middle">CLOUD NATIVE</text>
+  </g>
+  <g class="reveal r4">
+    <rect class="chip" x="70" y="312" width="165" height="34" rx="17"/>
+    <text class="tag" x="152" y="334" text-anchor="middle">PRODUCT</text>
+  </g>
+
+  <line class="line" x1="278" y1="104" x2="278" y2="355"/>
+
+  <g class="reveal r2">
+    <text class="label" x="320" y="130">name</text>
+    <text class="value" x="458" y="130">Shin Geonwoo</text>
+  </g>
+  <g class="reveal r3">
+    <text class="label" x="320" y="168">role</text>
+    <text class="value" x="458" y="168">Software Engineer</text>
+  </g>
+  <g class="reveal r4">
+    <text class="label" x="320" y="206">focus</text>
+    <text class="value" x="458" y="206">Backend · Platform · Embedded</text>
+  </g>
+  <g class="reveal r5">
+    <text class="label" x="320" y="244">stack</text>
+    <text class="value" x="458" y="244">Kotlin · Go · Kubernetes</text>
+  </g>
+  <g class="reveal r6">
+    <text class="label" x="320" y="282">build</text>
+    <text class="value" x="458" y="282">Orang · Ttaengcho</text>
+  </g>
+  <g class="reveal r7">
+    <text class="label" x="320" y="320">care</text>
+    <text class="value" x="458" y="320">Reliable data flow &amp; observability</text>
+  </g>
+
+  <g class="reveal r8">
+    <text class="prompt" x="320" y="366">&gt;</text>
+    <text class="value" x="348" y="366">building reliable software from development to operations</text>
+    <rect class="cursor" x="901" y="348" width="10" height="22" rx="2"/>
+  </g>
+</svg>
