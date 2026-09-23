@@ -1,5 +1,9 @@
+<p align="right">
+  <a href="./README.md">English</a> · <a href="./README.ko.md">한국어</a>
+</p>
+
 <p align="center">
-  <img src="./assets/animated-profile.svg" width="100%" alt="Animated profile of Shin Geonwoo" />
+  <img src="https://raw.githubusercontent.com/gitwub5/gitwub5/c98fc39c3c0a79d034305e27bf54b69507478ff0/assets/animated-profile.svg" width="100%" alt="Animated profile of Shin Geonwoo" />
 </p>
 
 <p align="center">
@@ -18,10 +22,10 @@
 
 ## 👋 About Me
 
-AI 모델을 만드는 데서 멈추지 않고,  
-**AI가 실제 서비스에서 안정적으로 동작하는 전체 과정**에 관심이 있습니다.
+Beyond building AI models,  
+**I’m interested in the entire lifecycle required to make AI work reliably in real-world services.**
 
-백엔드와 클라우드 인프라를 기반으로 배포·운영·관측·확장까지 함께 고민합니다.
+With a foundation in backend engineering and cloud infrastructure, I care about deployment, operations, observability, and scalability.
 
 <br />
 
@@ -40,9 +44,9 @@ AI 모델을 만드는 데서 멈추지 않고,
 
 ### 🍊 Orang
 
-> 문화 이벤트 탐색과 추천을 위한 모바일 플랫폼
+> A mobile platform for discovering and recommending cultural events
 
-공공 문화 데이터를 수집·정제해 제공하고, 사용자가 다양한 행사와 이벤트를 탐색할 수 있도록 개발한 서비스입니다.
+Built a service that collects and refines public cultural data, helping users discover and explore a wide range of events.
 
 <p>
   <a href="https://apps.apple.com/kr/app/%EC%98%A4%EB%9E%91-orang/id6755356338">
@@ -61,9 +65,9 @@ AI 모델을 만드는 데서 멈추지 않고,
 
 ### 🌶️ Ttaengcho
 
-> 서버 시간 확인과 정각 카운트다운을 위한 iOS 앱
+> An iOS utility for checking server time and counting down to the exact moment
 
-티켓팅이나 수강 신청처럼 정확한 시간이 필요한 상황에서 서버 시간과 남은 시간을 빠르게 확인할 수 있도록 개발한 유틸리티 앱입니다.
+Built for time-sensitive moments such as ticketing and course registration, providing quick access to server time and a precise countdown.
 
 
 <p>
