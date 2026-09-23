@@ -18,8 +18,17 @@
 
 ## 👋 About Me
 
-백엔드 개발부터 클라우드 배포와 운영까지,  
-**서비스가 실제 사용자에게 안정적으로 전달되는 전체 과정**에 관심을 두고 있습니다.
+AI 모델을 만드는 데서 멈추지 않고,  
+**AI가 실제 서비스에서 안정적으로 동작하는 전체 과정**에 관심이 있습니다.
+
+백엔드와 클라우드 인프라를 기반으로 배포·운영·관측·확장까지 함께 고민합니다.
+
+<br />
+
+## 🔭 Areas of Interest
+
+`Production AI` · `AI Infrastructure` · `Backend Systems` · `Cloud Native`  
+`MLOps` · `Observability` · `Reliability` · `Scalability`
 
 <br />
 
@@ -88,7 +97,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-### Backend
+### Backend & AI Services
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -102,7 +111,7 @@
 </td>
 <td width="50%" valign="top">
 
-### Cloud & DevOps
+### Infrastructure & Operations
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
@@ -110,7 +119,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo-cd&logoColor=white" />
 </p>
 
 ### Tools & Languages
