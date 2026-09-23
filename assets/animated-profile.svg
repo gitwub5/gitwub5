@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
   <title id="title">Animated developer profile for Shin Geonwoo</title>
-  <desc id="desc">A terminal-style animated introduction highlighting backend, cloud-native, product, and embedded engineering experience.</desc>
+  <desc id="desc">A terminal-style animated introduction highlighting AI systems, backend engineering, cloud infrastructure, and operations.</desc>
 
   <style>
     :root {
@@ -106,15 +106,15 @@
 
   <g class="reveal r2">
     <rect class="chip" x="70" y="220" width="165" height="34" rx="17"/>
-    <text class="tag" x="152" y="242" text-anchor="middle">BACKEND</text>
+    <text class="tag" x="152" y="242" text-anchor="middle">AI SYSTEMS</text>
   </g>
   <g class="reveal r3">
     <rect class="chip" x="70" y="266" width="165" height="34" rx="17"/>
-    <text class="tag" x="152" y="288" text-anchor="middle">CLOUD NATIVE</text>
+    <text class="tag" x="152" y="288" text-anchor="middle">INFRASTRUCTURE</text>
   </g>
   <g class="reveal r4">
     <rect class="chip" x="70" y="312" width="165" height="34" rx="17"/>
-    <text class="tag" x="152" y="334" text-anchor="middle">PRODUCT</text>
+    <text class="tag" x="152" y="334" text-anchor="middle">OPERATIONS</text>
   </g>
 
   <line class="line" x1="278" y1="104" x2="278" y2="355"/>
@@ -129,11 +129,11 @@
   </g>
   <g class="reveal r4">
     <text class="label" x="320" y="206">focus</text>
-    <text class="value" x="458" y="206">Backend · Platform · Embedded</text>
+    <text class="value" x="458" y="206">AI Systems · Platform · Infrastructure</text>
   </g>
   <g class="reveal r5">
     <text class="label" x="320" y="244">stack</text>
-    <text class="value" x="458" y="244">Kotlin · Go · Kubernetes</text>
+    <text class="value" x="458" y="244">Python · Go · Kubernetes</text>
   </g>
   <g class="reveal r6">
     <text class="label" x="320" y="282">build</text>
@@ -141,12 +141,12 @@
   </g>
   <g class="reveal r7">
     <text class="label" x="320" y="320">care</text>
-    <text class="value" x="458" y="320">Reliable data flow &amp; observability</text>
+    <text class="value" x="458" y="320">Reliability · Observability · Scalability</text>
   </g>
 
   <g class="reveal r8">
     <text class="prompt" x="320" y="366">&gt;</text>
-    <text class="value" x="348" y="366">building reliable software from development to operations</text>
+    <text class="value" x="348" y="366">building and operating production-ready AI systems</text>
     <rect class="cursor" x="901" y="348" width="10" height="22" rx="2"/>
   </g>
 </svg>
